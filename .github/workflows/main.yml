@@ -24,7 +24,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: dnwk/n7dmr@head
+        uses: dnwk/n7dmr@HEAD
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
