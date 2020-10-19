@@ -1,7 +1,7 @@
 baseURL: https://hugo-n7dmr.onrender.com/
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: N7DMR's Shack
 theme: cupper-hugo-theme
 googleAnalytics: 
 disqusShortname: 
@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly website for N7DMR and it's projects.
+  description: An accessibility-friendly website for N7DMR and projects.
   homeMetaContent: An accessibility-friendly website for N7DMR and it's projects.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). 
   # For more date formats see https://gohugo.io/functions/format/
@@ -26,7 +26,7 @@ params:
   katex: true
   darkThemeAsDefault: false
   hideHeaderLinks: false
-  search: true
+  search: false
   # A list of custom css files can be provided, which must be placed inside
   # 'static/'.
   # This is useful to override just specific css classes, instead of copying
@@ -44,10 +44,10 @@ menu:
     - name: Blog
       url: /post/
       weight: 2
-    - name: Tags
+    - name: APRS iGate
       url: /tags/
       weight: 3
-    - name: About
+    - name: Other Project Showcase
       url: /about/
       weight: 4
     - name: RSS
