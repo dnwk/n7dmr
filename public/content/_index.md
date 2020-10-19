@@ -12,3 +12,5 @@ N7DMR DMR Repeater
 * Toggleable dark theme
 * Toggleable table of contents per blog post
 {{< /ticks >}}
+
+DMR Repeater 
