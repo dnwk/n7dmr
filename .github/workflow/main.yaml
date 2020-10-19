@@ -1,2 +1,2 @@
 - name: Build Hugo
-  uses: lowply/build-hugo@v0.75.1
+  uses: lowply/build-hugo@v0.76.5
