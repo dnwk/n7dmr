@@ -44,7 +44,7 @@ menu:
     - name: CallWatch
       url: https://repeater.n7dmr.com/
       weight: 2
-	  
+  
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
