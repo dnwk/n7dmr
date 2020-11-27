@@ -12,17 +12,17 @@ Frequency 445.3Mhz -5Mhz CC1 (Repeater TX on 445.3Mhz Repeater RX on 440.3Mhz)
 
 Available Talk Group:
 
-TS1: 3153 Washington
+TS1: 3153 Washington (Dymanic / PTT to activate)
 
 TS1: 98003 Reddit
 
-TS2: 31650 SDFARC (Techlink)
-
 TS2: 31771 PNW Regional
 
-TS2: 3141 Oregon
+TS2: 3141 Oregon (Dymanic / PTT to activate)
 
 
 D-STAR Repeater:
 
-Reflector: XRF035 A Washington
+Reflector: REF029 A (Washington Digital Radio Enthusiasts hosted by Northern Utah Technical Society)
+
+(If you wish to be heard on the repeater, please [register your callsign with the gateway](http://wa7dre.org/registration/wa7dre-instructions.php)
