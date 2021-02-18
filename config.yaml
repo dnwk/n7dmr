@@ -42,8 +42,8 @@ menu:
       url: /
       weight: 1
     - name: About Me
-      url: /
-      weight: 1
+      url: /about
+      weight: 2
     - name: CallWatch
       url: https://repeater.n7dmr.com/
       weight: 2
