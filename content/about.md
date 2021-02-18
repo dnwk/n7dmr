@@ -5,7 +5,7 @@ title: "About"
 
 
 
-Kun Lin
+**Kun Lin**
 
 ![Banner image](/images/banner.jpg)
 
