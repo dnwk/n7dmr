@@ -8,7 +8,7 @@ title: "Home"
 N7DMR-R DMR & D-Star Repeater:
 
 
-Frequency 445.3Mhz -5Mhz CC1 (Repeater TX on 445.3Mhz Repeater RX on 440.3Mhz)
+Frequency 445.3Mhz -5Mhz CC1 (Repeater TX on 445.3Mhz Repeater RX on 440.3Mhz) 25W output
 
 Available Talk Group:
 
