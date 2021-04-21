@@ -2,7 +2,7 @@ backend:
   name: github
   repo: dnwk/n7dmr
   branch: master # Branch to update (optional; defaults to master)
-  base_url: https://oauth.hdl.workers.dev
+  base_url: https://n7dmr.com
   #auth_endpoint: api/auth
 #local_backend: true
 # These lines should *not* be indented
