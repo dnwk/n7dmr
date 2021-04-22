@@ -1,12 +1,10 @@
 ---
-date: "2020-11-1T18:27:58+01:00"
-title: "Home"
+title: Home
+date: 2020-11-1T18:27:58+01:00
 ---
-
 **N7DMR MMDVM Digital Voice repeater is located in W7DP club house in College Place, WA**
 
 N7DMR-R DMR & D-Star Repeater:
-
 
 Frequency 445.3Mhz -5Mhz CC1 (Repeater TX on 445.3Mhz Repeater RX on 440.3Mhz) 25W output
 
@@ -20,9 +18,8 @@ TS2: 31771 PNW Regional
 
 TS2: 3141 Oregon (Dymanic / PTT to activate)
 
-
 D-STAR Repeater:
 
-Reflector: REF029 A (Washington Digital Radio Enthusiasts hosted by Northern Utah Technical Society)
+Reflector: REF029 A 
 
 (If you wish to be heard on the repeater, please [register your callsign with the gateway](http://wa7dre.org/registration/wa7dre-instructions.php)
