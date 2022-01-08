@@ -45,7 +45,7 @@ menu:
       url: /about/
       weight: 2
     - name: CallWatch
-      url: https://repeater.n7dmr.com/
+      url: https://repeater.n7dmr.radio/
       weight: 3
   
 markup:
