@@ -14,11 +14,13 @@ TS1: 3153 Washington (Dymanic / PTT to activate)
 
 TS1: 98003 Reddit
 
+TS1: 312685 KB7DZR - Joseph, OR Talkgroup
+
 TS2: 31771 PNW Regional
 
 TS2: 3141 Oregon (Dymanic / PTT to activate)
 
-D-STAR Repeater:
+D-STAR Repeater (Currently offline):
 
 Reflector: REF029 A 
 
